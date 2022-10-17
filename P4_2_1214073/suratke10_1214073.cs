@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace P4_2_1214073
 {
-    internal class suratke2 : product_1214073
+    internal class suratke10_1214073 : product_1214073
     {
         public string surah;
-        public suratke2(string title, string surah)
+        public suratke10_1214073(string title, string surah)
         {
-            this.MyType = "surat kedua dalam alquran";
+            this.MyType = "surat ke sepuluh dalam alquran";
             this.MyTitle = title;
             this.surah = surah;
         }
